@@ -9,9 +9,11 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
-  <div id="app"></div>
+  <div data-app id="main">Plase wait...</div>
   <script>
     window.$docsify = {
+      el: '#main',
+      loadSidebar: true,
       name: '',
       repo: ''
     }
