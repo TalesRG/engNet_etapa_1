@@ -76,3 +76,10 @@ Após instalar as dependências, execute:
 npm run serve
 ```
 Esse comando já abre o seu navegador no localhost.
+
+
+## Histórico de Versão
+
+| Versão   | Data       | Autor(es)                                  | Descrição                                                                                   |
+|----------|------------|--------------------------------------------|---------------------------------------------------------------------------------------------|
+| `0.1`    | 22-01-2025 | [Bruno](https://github.com/brunobreis)     | Versão inicial do documento/projeto.                                                        |
