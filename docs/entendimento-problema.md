@@ -47,3 +47,10 @@ Para definirmos a prioriazção da áreas
 Para visualização do fluxo das áreas priorizadas
 
 - [Rich Picture](https://www.betterevaluation.org/methods-approaches/methods/rich-pictures)
+
+
+## Histórico de Versão
+
+| Versão   | Data       | Autor(es)                                  | Descrição                                                                                   |
+|----------|------------|--------------------------------------------|---------------------------------------------------------------------------------------------|
+| `0.1`    | 22-01-2025 | [Bruno](https://github.com/brunobreis)     | Versão inicial do documento/projeto.                                                        |
