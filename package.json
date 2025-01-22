@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  },
+  "scripts": {
+    "serve": "npx docsify serve ./docs --open " 
+  }
+}
