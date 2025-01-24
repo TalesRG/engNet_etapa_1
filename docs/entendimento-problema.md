@@ -54,3 +54,24 @@ A Amazon permite, em sua plataforma de vendas, que as pessoas tenham acesso a pr
 
 
 No que diz respeito às outras áreas de atuação, a Amazon promove evoluções tecnológicas - como a Alexa, um dispositivo com IA integrada que auxilia muito no dia-a-dia dos consumidores -, e até mesmo ecológicas se considerarmos o Amazon Kindle e a forma como ele diminuiu a produção e descarte de livros físicos. 
+
+
+### Definição do produto 
+
+Utilizamos a ferramenta: é, não é, faz e não faz, para definir o conceito e função do app. Logo, temos:
+
+
+<img src="./assets/e-nao-e-faz-nao-faz.png" alt="É, não é, faz, não faz" class="center"/>
+
+
+## Técnincas utilizadas
+
+### É, não é, faz e não faz
+
+A técnica de **[é, não é, faz e não faz](https://caroli.org/e-nao-e-faz-nao-faz/)**, desenvolvida pelo Caroli, é uma ferramenta que ajuda a definir o escopo do projeto. Ela é utilizada para definir o que o produto é, o que ele não é, o que ele faz e o que ele não faz. Essa técnica é muito útil para evitar mal-entendidos e garantir que todos do grupo tenham a mesma visão do app escolhido.
+
+## Histórico de Versão
+
+| Versão   | Data       | Autor(es)                                  | Descrição                                                                                   |
+|----------|------------|--------------------------------------------|---------------------------------------------------------------------------------------------|
+| `0.1`    | 24-01-2025 | [Bruno](https://github.com/brunobreis), [Ana](https://github.com/nanabridge)     | Versão inicial do documento/projeto.                                                        |
