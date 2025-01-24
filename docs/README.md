@@ -1,8 +1,7 @@
 # Home
 
-Essa é a primeira entraga do processo trainee 2.2024 da EngNet.
+Essa é a primeira entrega do processo trainee 2.2024 da EngNet.
 
-### Organização da documentação
 
 
 
