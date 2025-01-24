@@ -1,56 +1,77 @@
-## Objetivo
 
-Nessa etapa será esclarecido algumas informações sobre o projeto:
+# <a href="https://www.amazon.com.br/"><img src="./assets/logo-amazon.png" alt="Logo Amazon" class="center"/></a>
 
-- Qual é o objetivo do produto?
-- Quais áreas de requisiots?
+O app da [Amazon](https://www.amazon.com.br/), é responsável por centralizar os produtos da multinacional - que tem foco em **e-commerce**, computação em nuvem, streaming e IA -, possibilitando a assinatura e gerência dos diversos serviços da marca.
 
-Para atingir esses objetivos será organizado em **três** momentos.
 
----
+## Visão do produto
 
-### Estruturar o projeto 
+Nesse tópico, analisaremos os requisitos e serviços prestados pelo Amazon App. Definindo sua visão geral e contribuição para resolução de problemas.
 
-**Objetivo da etapa**:
 
-Para entendermos o objetivo desse projeto e esclarecer as diferentes visões de cada membro da equipe.
+### 1. Qual é o diferencial do pruduto?
 
-**Possíveis técnicas**:
+Rapidez no processamento e entrega dos produtos, com preços competitivos e alcance global. Interface intuitiva e personalizada, com grande suporte de atendimento ao cliente.
 
-- [5W2H](https://www.treasy.com.br/blog/5w2h/#:~:text=A%20ferramenta%205W2H%20%C3%A9%20um,feito%2C%20como%20e%20quanto%20custar%C3%A1.);
-    - no [material](https://artrsousa1.github.io/req2024-1/home/home/#5w2h) de apoio;
+### 2. Público alvo
 
-### Definição do Escopo
+Pessoas que buscam praticidade na compra e venda de produtos com entrega rápida no conforto do seu lar - além de preços acessíveis e variedade de opções.
 
-**Objetivo da etapa**:
+### 3. Vantagens
 
-Para começarmos a organizar os requisitos do produto e organizarmos em clusters.
+Além de eventos anuais com descontos relevantes para o consumidor, a Amazon, diferente de outros e-commerces, trabalha com sistemas de estocagem e logística que permitem a entrega de qualquer produto em menos de 3 dias.  
 
-**Possíveis técnicas**:
+### 4. Descrição do produto:
 
-- [Brainstorming](https://www.atlassian.com/br/work-management/project-collaboration/brainstorming/brainstorming-techniques);
-    - no [material](https://artrsousa1.github.io/req2024-1/home/home/#brainstorming) de apoio.
+#### 4.1 Alvo
 
-**Objetivo da etapa**:
+Consumidores e fornecedores de produtos dos mais variados ramos.
 
-Para definirmos a prioriazção da áreas
+#### 4.2 Usuário
 
-**Possíveis técnicas**:
+Qualquer usuário com acesso a internet ou que possua o app.
 
-- [Votação](https://www.clearlyagile.com/agile-blog/3-facilitated-voting-techniques);
-- [MosCoW](https://voitto.com.br/blog/artigo/metodo-moscow).
+#### 4.3 O que é?
 
-### Pré-rastreabilidade
+O Amazon App não é apenas uma plataforma de compras online, mas uma plataforma que conecta os usuários a produtos, entretenimento, serviços financeiros e dispositivos inteligentes
 
-**Objetivo da etapa**:
+#### 4.4 Utilidade
 
-Para visualização do fluxo das áreas priorizadas
+A Amazon distribui downloads e streaming de vídeo, música e audiolivros através de algumas sub empresas sob seu comando -  Prime Video, Amazon Music, Twitch e Audible. Tendo um braço editorial, a Amazon Publishing, um estúdio de cinema e televisão, Amazon Studios, e uma subsidiária de computação em nuvem, Amazon Web Services. Além disso, também produz eletrônicos de consumo, incluindo e-readers, tablets, TV Box, caixas de som, entre outros.
 
-- [Rich Picture](https://www.betterevaluation.org/methods-approaches/methods/rich-pictures)
+#### 4.5 Concorrentes
 
+Shopee, Shein, Temu, Mercado Livre, Magalu, Ebay e Alibaba (AliExpress).
+
+
+#### 4.6 Vantagens
+
+Maior segurança contra fraudes, o acesso à plataforma também via web e entrega mais rápida.
+
+### Problemática e objetivos da Amazon
+
+A Amazon permite, em sua plataforma de vendas, que as pessoas tenham acesso a produtos com **rapidez** e **comodidade**, também sendo útil para a compra de serviços ou objetos que nem sempre estão disponíveis na região do consumidor com a mesma facilidade. Seu marketplace ainda permite vendas externas que ajudam produtores independentes e geram grande competitividade de preços na plataforma, favorecendo o cliente - que sempre poderá pegar as melhores ofertas.
+
+
+No que diz respeito às outras áreas de atuação, a Amazon promove evoluções tecnológicas - como a Alexa, um dispositivo com IA integrada que auxilia muito no dia-a-dia dos consumidores -, e até mesmo ecológicas se considerarmos o Amazon Kindle e a forma como ele diminuiu a produção e descarte de livros físicos. 
+
+
+### Definição do produto 
+
+Utilizamos a ferramenta: é, não é, faz e não faz, para definir o conceito e função do app. Logo, temos:
+
+
+<img src="./assets/e-nao-e-faz-nao-faz.png" alt="É, não é, faz, não faz" class="center"/>
+
+
+## Técnincas utilizadas
+
+### É, não é, faz e não faz
+
+A técnica de **[é, não é, faz e não faz](https://caroli.org/e-nao-e-faz-nao-faz/)**, desenvolvida pelo Caroli, é uma ferramenta que ajuda a definir o escopo do projeto. Ela é utilizada para definir o que o produto é, o que ele não é, o que ele faz e o que ele não faz. Essa técnica é muito útil para evitar mal-entendidos e garantir que todos do grupo tenham a mesma visão do app escolhido.
 
 ## Histórico de Versão
 
 | Versão   | Data       | Autor(es)                                  | Descrição                                                                                   |
 |----------|------------|--------------------------------------------|---------------------------------------------------------------------------------------------|
-| `0.1`    | 22-01-2025 | [Bruno](https://github.com/brunobreis)     | Versão inicial do documento/projeto.                                                        |
+| `0.1`    | 24-01-2025 | [Bruno](https://github.com/brunobreis), [Ana](https://github.com/nanabridge)     | Versão inicial do documento/projeto.                                                        |
