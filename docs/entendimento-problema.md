@@ -1,56 +1,56 @@
-## Objetivo
 
-Nessa etapa será esclarecido algumas informações sobre o projeto:
+# <a href="https://www.amazon.com.br/"><img src="./assets/logo-amazon.png" alt="Logo Amazon" class="center"/></a>
 
-- Qual é o objetivo do produto?
-- Quais áreas de requisiots?
-
-Para atingir esses objetivos será organizado em **três** momentos.
-
----
-
-### Estruturar o projeto 
-
-**Objetivo da etapa**:
-
-Para entendermos o objetivo desse projeto e esclarecer as diferentes visões de cada membro da equipe.
-
-**Possíveis técnicas**:
-
-- [5W2H](https://www.treasy.com.br/blog/5w2h/#:~:text=A%20ferramenta%205W2H%20%C3%A9%20um,feito%2C%20como%20e%20quanto%20custar%C3%A1.);
-    - no [material](https://artrsousa1.github.io/req2024-1/home/home/#5w2h) de apoio;
-
-### Definição do Escopo
-
-**Objetivo da etapa**:
-
-Para começarmos a organizar os requisitos do produto e organizarmos em clusters.
-
-**Possíveis técnicas**:
-
-- [Brainstorming](https://www.atlassian.com/br/work-management/project-collaboration/brainstorming/brainstorming-techniques);
-    - no [material](https://artrsousa1.github.io/req2024-1/home/home/#brainstorming) de apoio.
-
-**Objetivo da etapa**:
-
-Para definirmos a prioriazção da áreas
-
-**Possíveis técnicas**:
-
-- [Votação](https://www.clearlyagile.com/agile-blog/3-facilitated-voting-techniques);
-- [MosCoW](https://voitto.com.br/blog/artigo/metodo-moscow).
-
-### Pré-rastreabilidade
-
-**Objetivo da etapa**:
-
-Para visualização do fluxo das áreas priorizadas
-
-- [Rich Picture](https://www.betterevaluation.org/methods-approaches/methods/rich-pictures)
+O app da [Amazon](https://www.amazon.com.br/), é responsável por centralizar os produtos da multinacional - que tem foco em **e-commerce**, computação em nuvem, streaming e IA -, possibilitando a assinatura e gerência dos diversos serviços da marca.
 
 
-## Histórico de Versão
+## Visão do produto
 
-| Versão   | Data       | Autor(es)                                  | Descrição                                                                                   |
-|----------|------------|--------------------------------------------|---------------------------------------------------------------------------------------------|
-| `0.1`    | 22-01-2025 | [Bruno](https://github.com/brunobreis)     | Versão inicial do documento/projeto.                                                        |
+Nesse tópico, analisaremos os requisitos e serviços prestados pelo Amazon App. Definindo sua visão geral e contribuição para resolução de problemas.
+
+
+### 1. Qual é o diferencial do pruduto?
+
+Rapidez no processamento e entrega dos produtos, com preços competitivos e alcance global. Interface intuitiva e personalizada, com grande suporte de atendimento ao cliente.
+
+### 2. Público alvo
+
+Pessoas que buscam praticidade na compra e venda de produtos com entrega rápida no conforto do seu lar - além de preços acessíveis e variedade de opções.
+
+### 3. Vantagens
+
+Além de eventos anuais com descontos relevantes para o consumidor, a Amazon, diferente de outros e-commerces, trabalha com sistemas de estocagem e logística que permitem a entrega de qualquer produto em menos de 3 dias.  
+
+### 4. Descrição do produto:
+
+#### 4.1 Alvo
+
+Consumidores e fornecedores de produtos dos mais variados ramos.
+
+#### 4.2 Usuário
+
+Qualquer usuário com acesso a internet ou que possua o app.
+
+#### 4.3 O que é?
+
+O Amazon App não é apenas uma plataforma de compras online, mas uma plataforma que conecta os usuários a produtos, entretenimento, serviços financeiros e dispositivos inteligentes
+
+#### 4.4 Utilidade
+
+A Amazon distribui downloads e streaming de vídeo, música e audiolivros através de algumas sub empresas sob seu comando -  Prime Video, Amazon Music, Twitch e Audible. Tendo um braço editorial, a Amazon Publishing, um estúdio de cinema e televisão, Amazon Studios, e uma subsidiária de computação em nuvem, Amazon Web Services. Além disso, também produz eletrônicos de consumo, incluindo e-readers, tablets, TV Box, caixas de som, entre outros.
+
+#### 4.5 Concorrentes
+
+Shopee, Shein, Temu, Mercado Livre, Magalu, Ebay e Alibaba (AliExpress).
+
+
+#### 4.6 Vantagens
+
+Maior segurança contra fraudes, o acesso à plataforma também via web e entrega mais rápida.
+
+### Problemática e objetivos da Amazon
+
+A Amazon permite, em sua plataforma de vendas, que as pessoas tenham acesso a produtos com **rapidez** e **comodidade**, também sendo útil para a compra de serviços ou objetos que nem sempre estão disponíveis na região do consumidor com a mesma facilidade. Seu marketplace ainda permite vendas externas que ajudam produtores independentes e geram grande competitividade de preços na plataforma, favorecendo o cliente - que sempre poderá pegar as melhores ofertas.
+
+
+No que diz respeito às outras áreas de atuação, a Amazon promove evoluções tecnológicas - como a Alexa, um dispositivo com IA integrada que auxilia muito no dia-a-dia dos consumidores -, e até mesmo ecológicas se considerarmos o Amazon Kindle e a forma como ele diminuiu a produção e descarte de livros físicos. 
