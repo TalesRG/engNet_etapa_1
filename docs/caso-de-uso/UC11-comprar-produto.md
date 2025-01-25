@@ -1,5 +1,3 @@
-# UC11: Comprar Produto
-
 ## Breve Descrição
 Este caso de uso descreve o processo pelo qual um usuário seleciona produtos, adiciona ao carrinho, escolhe as opções de entrega e pagamento, e conclui a compra.
 

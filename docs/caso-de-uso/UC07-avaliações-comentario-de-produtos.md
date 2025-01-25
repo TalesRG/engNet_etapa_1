@@ -1,4 +1,3 @@
-## UC07: Avaliações e Comentários de Produtos
 ### Breve Descrição:
 - Permite que os usuários visualizem e publiquem avaliações e comentários sobre produtos.
 

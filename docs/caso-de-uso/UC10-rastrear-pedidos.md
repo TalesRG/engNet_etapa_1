@@ -1,4 +1,3 @@
-## UC010: Rastrear Pedidos
 ### Breve Descrição:
 - Permite que o usuário acompanhe o status de seus pedidos.
 

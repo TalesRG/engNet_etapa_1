@@ -1,5 +1,3 @@
-## UC08 : Denunciar Comentários
-
 ### Breve Descrição:
 - Permite que os usuários denunciem comentários inadequados.
 

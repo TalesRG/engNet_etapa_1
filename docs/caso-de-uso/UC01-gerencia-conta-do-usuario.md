@@ -1,4 +1,3 @@
-## UC01: Gerenciar Conta do Usuário
 ### Breve Descrição: 
 Este caso de uso permite ao usuário criar, editar e excluir sua conta na plataforma, além de atualizar suas informações pessoais, como endereço, senha e métodos de pagamento.
 
