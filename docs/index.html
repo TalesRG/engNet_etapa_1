@@ -33,9 +33,34 @@
         subMaxLevel: 3,
         name: "",
         repo: "",
+        loadNavbar: true,
+        search: {
+          placeholder: {
+            "/ zh CN /": "Procurar",
+            "/": "Busque por palavras chaves",
+          },
+
+          noData: "Sem Resultado",
+          noData: {
+            "/ zh CN /": "Resultado não encontrado",
+            "/": "Sem Resultado",
+          },
+        },
+        themeable: {
+          readyTransition: true, // default
+          responsiveTables: true, // default
+        },
+
       };
     </script>
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+
+    <!-- Plugins -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.js"></script>
+    <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   </body>
 </html>
