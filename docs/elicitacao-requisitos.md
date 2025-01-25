@@ -118,6 +118,13 @@ O sistema deve <ação> para <objetivo>.
 | Gerencia de conteúdos e dispositivos                                                                                | **R017** O sistema deve ser capaz de gerenciar os dispositivos vinculados ao mesmo usuário e conteúdos. | Could           |
 
 
+#### Tabela de Priorização
+
+
+<img src="./assets/parte-2/moscow.png" alt="instrospecção de requisitos funcioanis" class="center"/>
+
+
+
 #### Não Funcionais
 
 > Obs: Não houve priorização dos requisitos não funcionais, já que eles são uma parte essencial do sistema.
@@ -149,6 +156,15 @@ seja, imaginar que propriedades um sistema deveria possuir de forma a obter suce
 Esta técnica foi utilizada para identificar os requisitos funcionais e não funcionais do app da Amazon, pois ela é de fácil implementação e leva em consideração a experiência que os integrantes da equipe têm com o uso de aplicativos de e-commerce. E com o auxílio do Miro, foi possível organizar as ideias de forma clara e objetiva.
 
 ### Observação Passiva
+
+#### O que é?
+
+Esta é uma técnica de observar um usuário ou grupo de usuários utilizando um sistema ou aplicativo, sem interferir no processo (por isso o passivo). O objetivo é observar o comportamento do usuário e identificar possíveis funcionalidades.
+
+#### Por que utilizamos?
+
+Utilizamos essa técninca para complementar a introspecção, já que leva o usuário a um ambiente real do uso do app.
+
 
 ### URPS
 
@@ -193,3 +209,4 @@ A técnica foi utilizada devido a sua utilidade para facilitar a priorização d
 | Versão   | Data       | Autor(es)                                  | Descrição                                                                                   |
 |----------|------------|--------------------------------------------|---------------------------------------------------------------------------------------------|
 | `0.1`    | 25-01-2025 | [Bruno](https://github.com/brunobreis), [Júnio](https://github.com/Juniossilva173)     | Versão inicial do documento.                                                        |
+| `0.2`    | 25-01-2025 | [Bruno](https://github.com/brunobreis), [Júnio](https://github.com/Juniossilva173)     | Atualização de técnicnas e quadros.                                                        |
