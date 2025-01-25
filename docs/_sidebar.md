@@ -8,6 +8,7 @@
 * **Entrega**
 * [Resumo](./entrega.md)
     * [Entendimento do Problema](./entendimento-problema.md)
+    * [Elicitação de Requisitos](./elicitacao-requisitos.md)
   * **Modelagem**
     * [Caso de Uso](./caso-de-uso/diagrama-caso-de-uso.md)
         * **Especificações de Caso de Uso**
