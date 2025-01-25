@@ -61,3 +61,6 @@ Jornada de usuário - Backbone
 - **US29:** Eu, como cliente, quero obter o código de rastreamento para acompanhar o status da entrega do meu pedido e saber quando ele será entregue.
 - **US30:** Eu, como cliente, quero visualizar soluções padrão para resolver problemas comuns rapidamente, sem precisar entrar em contato com o suporte.
 - **US31:** Eu, como cliente, quero conversar com o vendedor para tirar dúvidas sobre o produto ou pedido, garantindo que minhas questões sejam respondidas antes de finalizar a compra.
+
+--- 
+
