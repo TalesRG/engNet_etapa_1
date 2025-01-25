@@ -8,3 +8,4 @@
 * **Entrega**
 * [Resumo](./entrega.md)
     * [Entendimento do Problema](./entendimento-problema.md)
+    * [Elicitação de Requisitos](./elicitacao-requisitos.md)
