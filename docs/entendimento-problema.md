@@ -1,5 +1,5 @@
 
-# <a href="https://www.amazon.com.br/"><img src="./assets/logo-amazon.png" alt="Logo Amazon" class="center"/></a>
+# <a href="https://www.amazon.com.br/"><img src="./assets/parte-1/logo-amazon.png" alt="Logo Amazon" class="center"/></a>
 
 O app da [Amazon](https://www.amazon.com.br/), é responsável por centralizar os produtos da multinacional - que tem foco em **e-commerce**, computação em nuvem, streaming e IA -, possibilitando a assinatura e gerência dos diversos serviços da marca.
 
@@ -61,17 +61,24 @@ No que diz respeito às outras áreas de atuação, a Amazon promove evoluções
 Utilizamos a ferramenta: é, não é, faz e não faz, para definir o conceito e função do app. Logo, temos:
 
 
-<img src="./assets/e-nao-e-faz-nao-faz.png" alt="É, não é, faz, não faz" class="center"/>
+<img src="./assets/parte-1/e-nao-e-faz-nao-faz.png" alt="É, não é, faz, não faz" class="center"/>
 
 
 ## Técnincas utilizadas
 
 ### É, não é, faz e não faz
 
-A técnica de **[é, não é, faz e não faz](https://caroli.org/e-nao-e-faz-nao-faz/)**, desenvolvida pelo Caroli, é uma ferramenta que ajuda a definir o escopo do projeto. Ela é utilizada para definir o que o produto é, o que ele não é, o que ele faz e o que ele não faz. Essa técnica é muito útil para evitar mal-entendidos e garantir que todos do grupo tenham a mesma visão do app escolhido.
+#### O que é?
+
+A técnica de **[é, não é, faz e não faz](https://caroli.org/e-nao-e-faz-nao-faz/)**, desenvolvida pelo Caroli, é uma ferramenta que ajuda a definir o escopo do projeto. Ela é utilizada para definir o que o produto é, o que ele não é, o que ele faz e o que ele não faz.
+
+#### Por que utilizamos?
+
+Essa técnica foi utilizada para evitar mal-entendidos e garantir que todos do grupo tenham a mesma visão do app escolhido.
+
 
 ## Histórico de Versão
 
 | Versão   | Data       | Autor(es)                                  | Descrição                                                                                   |
 |----------|------------|--------------------------------------------|---------------------------------------------------------------------------------------------|
-| `0.1`    | 24-01-2025 | [Bruno](https://github.com/brunobreis), [Ana](https://github.com/nanabridge)     | Versão inicial do documento/projeto.                                                        |
+| `0.1`    | 25-01-2025 | [Bruno](https://github.com/brunobreis), [Júnio](https://github.com/Juniossilva173)     | Versão inicial do documento.                                                        |
