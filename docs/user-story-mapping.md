@@ -60,3 +60,8 @@ O objetivo principal de utilizar esse método foi mapear e estruturar as histór
 
 <iframe width="768" height="432" src="https://miro.com/app/board/uXjVLo5iBy8=/?share_link_id=190168825409" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
+## Histórico de Versão
+
+| Versão   | Data       | Autor(es)                                  | Descrição                                                                                   |
+|----------|------------|--------------------------------------------|---------------------------------------------------------------------------------------------|
+| `0.1`    | 25-01-2025 | [Bruno](https://github.com/brunobreis), [Ana](https://github.com/nanabridge) e [Júnio](https://github.com/Juniossilva173)    | Versão inicial do documento/projeto.                                                        |
