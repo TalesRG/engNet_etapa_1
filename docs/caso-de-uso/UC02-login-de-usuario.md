@@ -1,4 +1,3 @@
-## UC02 : Logar no Sistema
 ### Breve Descrição:
 Permite que o usuário acesse sua conta na plataforma, utilizando credenciais válidas (e-mail/telefone e senha) ou métodos alternativos, como autenticação por biometria ou via redes sociais.
 

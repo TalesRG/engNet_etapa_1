@@ -1,4 +1,3 @@
-## UC06: Filtrar Busca
 ### Breve Descrição:
 - Permite que o usuário refine os resultados da busca utilizando critérios como categoria, preço, marca e avaliação.
 

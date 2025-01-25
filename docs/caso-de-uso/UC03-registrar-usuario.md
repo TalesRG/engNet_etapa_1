@@ -1,4 +1,3 @@
-## UC03: Registrar Usuário
 ### Breve Descrição:
 - Permite que novos usuários criem uma conta na plataforma, fornecendo informações básicas e aceitando os termos de uso.
 

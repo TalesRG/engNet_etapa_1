@@ -1,4 +1,3 @@
-## UC09: Adicionar a Wishlist (Lista de Desejos)
 ### Breve Descrição:
 - Permite que o usuário salve produtos de interesse em uma lista para referência futura.
 

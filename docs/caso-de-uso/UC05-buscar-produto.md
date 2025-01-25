@@ -1,4 +1,3 @@
-## UC05 : Buscar Produto
 ### Breve Descrição:
 - Permite que o usuário pesquise produtos utilizando palavras-chave.
 
