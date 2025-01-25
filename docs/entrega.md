@@ -9,6 +9,6 @@ A entrega foi dividida em **quatro** partes:
 
 - **Parte 1**: [Entendimento do Problema](./entendimento-problema.md);
 - **Parte 2**: [Elicitação de Requisitos](./elicitacao-requisitos.md);
-- **Parte 3**: Modelagem de Requisitos;
+- **Parte 3**: [Modelagem de Requisitos](./modelagem-requisitos.md);
 - **Parte 4**: Finalização de Requisitos.
 
