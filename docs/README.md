@@ -15,6 +15,7 @@ Essa é a primeira entrega do processo trainee 2.2024 da EngNet.
 
 ## Histórico de Versão
 
-| Versão   | Data       | Autor(es)                                  | Descrição                                                                                   |
-|----------|------------|--------------------------------------------|---------------------------------------------------------------------------------------------|
-| `0.1`    | 22-01-2025 | [Bruno](https://github.com/brunobreis)     | Versão inicial do documento/projeto.                                                        |
+| Versão | Data       | Autor(es)                                                          | Descrição                                                                                                                |
+|--------|------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| `0.1`  | 22-01-2025 | [Bruno](https://github.com/brunobreis)                             | Versão inicial do documento/projeto.                                                                                     |
+| `1.0`  | 25-01-2025 | [Bruno](https://github.com/brunobreis),[Tales](https://github.com/talesrg),[Ana](https://github.com/talesrg),[Junio](https://github.com/Juniossilva173) | Adicionando Especificação de caso de uso e Diagrama, Elicitação de Requisitos, User StoryMap e Matriz de Rastreabilidade |
