@@ -81,4 +81,4 @@ Essa técnica foi utilizada para evitar mal-entendidos e garantir que todos do g
 
 | Versão   | Data       | Autor(es)                                  | Descrição                                                                                   |
 |----------|------------|--------------------------------------------|---------------------------------------------------------------------------------------------|
-| `0.1`    | 25-01-2025 | [Bruno](https://github.com/brunobreis), [Júnio](https://github.com/Juniossilva173)     | Versão inicial do documento.                                                        |
+| `0.1`    | 24-01-2025 | [Bruno](https://github.com/brunobreis), [Ana](https://github.com/nanabridge)     | Versão inicial do documento/projeto.                                                        |
