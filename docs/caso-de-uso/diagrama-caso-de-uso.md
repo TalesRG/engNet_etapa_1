@@ -18,3 +18,10 @@ Casos de Uso são ferramentas poderosas para entender as funcionalidades necess�
 ## Diagrama de Caso de Uso
 O diagrama de caso de uso apresentado visualiza as funcionalidades do site da Amazon através da perspectiva de um cliente. Este diagrama detalha as várias interações possíveis entre o cliente e o sistema, organizando os casos de uso de maneira que os relacionamentos e dependências sejam claros e compreensíveis.
 ![Diagrama](./assets/img.png "diagrama de caso de uso")
+
+
+## Histórico de Versão
+
+| Versão   | Data       | Autor(es)                                  | Descrição                                                                                   |
+|----------|------------|--------------------------------------------|---------------------------------------------------------------------------------------------|
+| `0.1`    | 25-01-2025 | [Tales](https://github.com/talesrg)     | Versão inicial do documento/projeto.                                                        |
