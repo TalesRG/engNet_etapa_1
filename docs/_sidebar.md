@@ -9,7 +9,7 @@
 * [Resumo](./entrega.md)
     * [Entendimento do Problema](./entendimento-problema.md)
   * **Modelagem**
-    * **Caso de Uso**
+    * [Caso de Uso](./caso-de-uso/diagrama-caso-de-uso.md)
         * **Especificações de Caso de Uso**
           - [UC01 - Gerenciar Conta do Usuário](./caso-de-uso/UC01-gerencia-conta-do-usuario.md)
           - [UC02 - Login de Usuário](./caso-de-uso/UC02-login-de-usuario.md)
