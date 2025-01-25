@@ -25,3 +25,4 @@
                 * [UC11 - Comprar Produto](./caso-de-uso/UC11-comprar-produto.md)
         * [User Story Mapping](./user-story-mapping.md)
             *  **[Especificações do User Story Mapping](./user-story-mapping-especificacao.md)**
+    * [Finalização](./finalizaçâo.md)
